@@ -25,10 +25,39 @@ Grading
 
 Grade will be lost for late work.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Film Project from conception to completion (including concept development and presentation, research, execution, and personal investment in and commitment to your work) | 75% |
-| Attendance, class participation, reading and other assignments | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Film Project from conception to completion (including concept development and presentation, research, execution, and personal investment in and commitment to your work)
+{{< tdclose >}}
+{{< tdopen >}}
+75%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance, class participation, reading and other assignments
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 **Completion of all projects exercises and assignments is required for a passing grade.**
 

@@ -4,31 +4,468 @@ title: Calendar
 uid: 03619de3-09cf-28ed-8e29-76dd90ec842f
 ---
 
-| SES # | TOPICS | SCREENINGS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | Introduction to the Course | _Various Excerpts.  {{< br >}}_  {{< br >}}_The Order Mathew Barney._ | &nbsp; |
-| 2 | Technical Workshop: Demonstration of DV Cameras  {{< br >}}  {{< br >}}In-class Exercise #1: "Camera Play" | _Basic Film Terms._ | &nbsp; |
-| 3 | Introduction to Assignment #1: "Abstractions"  {{< br >}}  {{< br >}}Technical Workshop: Introduction to Editing Lab and Final Cut Pro®  {{< br >}}  {{< br >}}Early History of Video Art Pt 1 | _The Electronic Canvas - WGBH.  {{< br >}}_  {{< br >}}Leger, Fernand. _Ballet Mecanique._ | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Introduction to Assignments #2 and #3: Edit "Abstractions" {{< br >}}{{< br >}} Early History of Video Art Pt 2: Aesthetics of the Video Signal  {{< br >}}  {{< br >}}Nam June Paik and the Video Signal {{< br >}}{{< br >}}  | _Nam June Paik_.  {{< br >}}  {{< br >}}_Peter Campus_.  {{< br >}}  {{< br >}}Richter, Hans. _Rhythmus 21_.  {{< br >}}  {{< br >}}Eggling, Viking. _Abstractions_.  {{< br >}}  {{< br >}}Gibbons, Joe. _Analogue_. | Assignment #1 due |
-| 5 | Introduction to Assignment #4: Personal Documentary (Autobiography)  {{< br >}}  {{< br >}}Technical Workshop: Camera Supports | Huyghe, Pierre. _The Third Memory 2000_.  {{< br >}}  {{< br >}}Hill, Jerome. _Film Portrait.  {{< br >}}_  {{< br >}}Gibbons, Joe. _Living in the World_. | Assignments #2 and #3 due |
-| 6 | Introduction to Assignment #4: Personal Documentary (Autobiography) (cont.) | Huyghe, Pierre. _The Third Memory 2000_.  {{< br >}}  {{< br >}}Hill, Jerome. _Film Portrait_.  {{< br >}}  {{< br >}}Gibbons, Joe. _Living in the World_.  {{< br >}}  {{< br >}}Wilcha, Chris. _The Target Shoots First_. | Ideas for Assignment #4 due |
-| 7 | Technical Workshop: Audio Recording  {{< br >}}  {{< br >}}Introduction to Assignment #4: Personal Documentary (Autobiography) (cont.)  {{< br >}}  {{< br >}}Technical Concepts, Resolution, Formats, Degradation, etc. | &nbsp; | Assignment #4 works-in-progress due |
-| 8 | Assignment #4: "Personal Doc" | &nbsp; | Assignment #4 due |
-| 9 | Introduction to Assignment #5: Personae and the Fictive Self (Autobiography) | McBride, David. _D. Holzman’s Diary.  {{< br >}}_  {{< br >}}Morin, Robert. _Yes Sir Madam._  {{< br >}}  {{< br >}}Gibbons, Joe, and Tony Oursler. _On Our Own._ | &nbsp; |
-| 10 | Technical Workshop: Lighting  {{< br >}}  {{< br >}}Introduction to Assignment #6: Group Exercise (In and Out of Class): Camera Placement and Continuity – "Hartley" | _Hold Me While I’m Naked._ | &nbsp; |
-| 11 | Individual Presentations: Lighting  {{< br >}}  {{< br >}}Begin Individual Edits of Assignment #6 | Kuchar, George. _I, an Actress_. | &nbsp; |
-| 12 | Class Exercise: Screening of Completed "Hartley" Edits | &nbsp; | Individual edits of Assignment #6 Part One due |
-| 13 | &nbsp; | Assignment #5: "The Fictive Self" work-in-progress screening | &nbsp; |
-| 14 | Production Time | &nbsp; |
-| 15 | Assignment #5: "The Fictive Self" | &nbsp; | Assignment #5 due |
-| 16 | Individual Presentations: Cinematography | _Ephemeral Films,_ Prelinger Collection. | &nbsp; |
-| 17 | Technical Workshop: Voice-over Narration  {{< br >}}  {{< br >}}Individual Presentations: Sound | &nbsp; |
-| 18 | Individual Edits of Hartley Scene | &nbsp; | Individual edits of Assignment #6 Part Two due |
-| 19 | Introduction to Assignment #7: Stories (Alternative Narratives) | Smith, Mike. _Mike's Nightmare_. | &nbsp; |
-| 20 | Individual Presentations | &nbsp; |
-| 21 | Individual Meetings | &nbsp; |
-| 22 | Individual Meetings (cont.) | &nbsp; |
-| 23 | Technical Workshop: Final Cut Pro® Color Manipulation | &nbsp; |
-| 24 | Presentation of Final Project Treatment, Storyboards and Influences | Screening of Assignment #7 Work-in-Progress Material | &nbsp; |
-| 25 | Technical Workshop: Creating DVD's Using DVD Studio Pro 2.0  {{< br >}}  {{< br >}}Individual Consultations | Work-in-Progress Screening | &nbsp; |
-| 26 | Assignment #7: Stories (Alternative Narratives) | Final Assignment Screening | Assignment #7 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SCREENINGS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Course
+{{< tdclose >}}
+{{< tdopen >}}
+_Various Excerpts.  
+_  
+_The Order Mathew Barney._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Technical Workshop: Demonstration of DV Cameras  
+  
+In-class Exercise #1: "Camera Play"
+{{< tdclose >}}
+{{< tdopen >}}
+_Basic Film Terms._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Assignment #1: "Abstractions"  
+  
+Technical Workshop: Introduction to Editing Lab and Final Cut Pro®  
+  
+Early History of Video Art Pt 1
+{{< tdclose >}}
+{{< tdopen >}}
+_The Electronic Canvas - WGBH.  
+_  
+Leger, Fernand. _Ballet Mecanique._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to Assignments #2 and #3: Edit "Abstractions"
+
+Early History of Video Art Pt 2: Aesthetics of the Video Signal  
+  
+Nam June Paik and the Video Signal
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+_Nam June Paik_.  
+  
+_Peter Campus_.  
+  
+Richter, Hans. _Rhythmus 21_.  
+  
+Eggling, Viking. _Abstractions_.  
+  
+Gibbons, Joe. _Analogue_.
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Assignment #4: Personal Documentary (Autobiography)  
+  
+Technical Workshop: Camera Supports
+{{< tdclose >}}
+{{< tdopen >}}
+Huyghe, Pierre. _The Third Memory 2000_.  
+  
+Hill, Jerome. _Film Portrait.  
+_  
+Gibbons, Joe. _Living in the World_.
+{{< tdclose >}}
+{{< tdopen >}}
+Assignments #2 and #3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Assignment #4: Personal Documentary (Autobiography) (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Huyghe, Pierre. _The Third Memory 2000_.  
+  
+Hill, Jerome. _Film Portrait_.  
+  
+Gibbons, Joe. _Living in the World_.  
+  
+Wilcha, Chris. _The Target Shoots First_.
+{{< tdclose >}}
+{{< tdopen >}}
+Ideas for Assignment #4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Technical Workshop: Audio Recording  
+  
+Introduction to Assignment #4: Personal Documentary (Autobiography) (cont.)  
+  
+Technical Concepts, Resolution, Formats, Degradation, etc.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #4 works-in-progress due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #4: "Personal Doc"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Assignment #5: Personae and the Fictive Self (Autobiography)
+{{< tdclose >}}
+{{< tdopen >}}
+McBride, David. _D. Holzman’s Diary.  
+_  
+Morin, Robert. _Yes Sir Madam._  
+  
+Gibbons, Joe, and Tony Oursler. _On Our Own._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Technical Workshop: Lighting  
+  
+Introduction to Assignment #6: Group Exercise (In and Out of Class): Camera Placement and Continuity – "Hartley"
+{{< tdclose >}}
+{{< tdopen >}}
+_Hold Me While I’m Naked._
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Presentations: Lighting  
+  
+Begin Individual Edits of Assignment #6
+{{< tdclose >}}
+{{< tdopen >}}
+Kuchar, George. _I, an Actress_.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Class Exercise: Screening of Completed "Hartley" Edits
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Individual edits of Assignment #6 Part One due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #5: "The Fictive Self" work-in-progress screening
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Production Time
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #5: "The Fictive Self"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Presentations: Cinematography
+{{< tdclose >}}
+{{< tdopen >}}
+_Ephemeral Films,_ Prelinger Collection.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Technical Workshop: Voice-over Narration  
+  
+Individual Presentations: Sound
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Edits of Hartley Scene
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Individual edits of Assignment #6 Part Two due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Assignment #7: Stories (Alternative Narratives)
+{{< tdclose >}}
+{{< tdopen >}}
+Smith, Mike. _Mike's Nightmare_.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Meetings
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Meetings (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Technical Workshop: Final Cut Pro® Color Manipulation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation of Final Project Treatment, Storyboards and Influences
+{{< tdclose >}}
+{{< tdopen >}}
+Screening of Assignment #7 Work-in-Progress Material
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Technical Workshop: Creating DVD's Using DVD Studio Pro 2.0  
+  
+Individual Consultations
+{{< tdclose >}}
+{{< tdopen >}}
+Work-in-Progress Screening
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #7: Stories (Alternative Narratives)
+{{< tdclose >}}
+{{< tdopen >}}
+Final Assignment Screening
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment #7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
